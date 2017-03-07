@@ -36,4 +36,13 @@
         android:layout_width="match_parent"
         android:layout_height="50dp"
         android:text="Get Json Object "/>
+
+    <Button
+        android:id="@+id/button_get_Json_array"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="Get Json Arrays "/>
+
 </LinearLayout>
